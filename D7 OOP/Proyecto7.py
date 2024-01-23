@@ -19,7 +19,6 @@ class Empleado(Persona):
         self.balance -= cantidad
 
 
-
 print("Bienvenido al sistema de empleados")
 nombre = input("Ingrese su nombre: ")
 apellido = input("Ingrese su apellido: ")
