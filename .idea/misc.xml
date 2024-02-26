@@ -3,8 +3,12 @@
   <component name="Black">
     <option name="sdkName" value="C:\ProgramData\anaconda3" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\diego\anaconda3" project-jdk-type="Python SDK" />
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
+>>>>>>> 15cb36d503e4805e9a1ffe7df736f5278757b62d
 </project>
